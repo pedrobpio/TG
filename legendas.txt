@@ -1,0 +1,35 @@
+legenda curso, Raça, tipo escola, saiu
+
+Curso
+ 'Computação -> '0'
+ 'Engenharia de Redes de Comunicação -> '1'
+ 'Ciência da Computação -> '2'
+ 'Engenharia Mecatrônica -> '3'
+ 'Engenharia de Computação -> '4'
+ 'Engenharia de Software -> '5'
+ 'Informática           -> '6'
+
+Raça
+ 'Não informado -> '0'
+ 'Não cadastrada -> '0'
+ 'Não dispõe da informação -> '0'
+ 'Parda  -> '1'
+ 'Amarela-> '2'
+ 'Preta  -> '3'
+ 'Indigena -> '4'
+ 'Branca -> '5'
+
+
+Tipo Escola
+ 'Não Informada ->'0'
+ 'Particular ->'-1'
+ 'Pública ->'1'
+
+ saiu
+ ativo -> 0
+ formou -> -1
+ não formou -> 1
+
+ sexo
+ M -> 0
+ F -> 1
