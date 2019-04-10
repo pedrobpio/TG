@@ -1,9 +1,9 @@
 legenda curso, Raça, tipo escola, saiu
 
 Curso
- 'Computação -> '0'
+ 'Computação licienciatura -> '0' 
  'Engenharia de Redes de Comunicação -> '1'
- 'Ciência da Computação -> '2'
+ 'Ciência da Computação bacharelado -> '2'
  'Engenharia Mecatrônica -> '3'
  'Engenharia de Computação -> '4'
  'Engenharia de Software -> '5'
